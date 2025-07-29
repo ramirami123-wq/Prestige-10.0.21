@@ -62,7 +62,7 @@
           "settings": {
             "collection": "unisex",
             "products_count": 8,
-            "title": "",
+            "title": "Most Selling",
             "link_url": "",
             "link_text": "View all"
           }
@@ -80,7 +80,7 @@
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
         "vertical_spacing_factor": 1,
-        "subheading": "Most Selling"
+        "subheading": ""
       }
     },
     "collection-list": {
