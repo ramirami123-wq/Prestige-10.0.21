@@ -11,10 +11,87 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "md"
+      }
+    },
+    "collection_list_X8MrxT": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_zWxYGQ": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "universities-unisex",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "Universities For Him",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_7BDFwX": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "universities-for-her",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "Universities For Her",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_qxbbjx": {
+          "type": "collection",
+          "settings": {
+            "color_scheme": "",
+            "collection": "universities-unisex-1",
+            "expand_collection": false,
+            "content_position": "place-self-end-start text-start",
+            "subheading": "",
+            "title": "Universities Unisex",
+            "button_text": "View products",
+            "button_link": "",
+            "button_style": "solid",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_zWxYGQ",
+        "collection_7BDFwX",
+        "collection_qxbbjx"
+      ],
+      "name": "t:sections.collection_list.presets.collection_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image_size": "auto",
+        "show_text_outside": false,
+        "space_items": true,
+        "stack_collections": true,
+        "collections_per_row_mobile": "1",
+        "collections_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collection_list_X8MrxT"
   ]
 }
