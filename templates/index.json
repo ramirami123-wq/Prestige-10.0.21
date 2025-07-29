@@ -83,6 +83,36 @@
         "subheading": ""
       }
     },
+    "featured_collections_TLDHVM": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_3Y4Er7": {
+          "type": "collection",
+          "settings": {
+            "collection": "our-perfumes",
+            "products_count": 8,
+            "title": "Exclusive Perfumes",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_3Y4Er7"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": true,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -153,11 +183,45 @@
         "title": "Explore Our Collections",
         "content": ""
       }
+    },
+    "image_with_text_UxEjWw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LnUD8a": {
+          "type": "heading",
+          "settings": {
+            "text": "Bottled to Perfection",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_3Y8Wfg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At RAVA, each fragrance is a refined expression of sophistication—where French perfumery artistry meets timeless Arab sensuality. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LnUD8a",
+        "richtext_3Y8Wfg"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/enhanced_perfume_fill.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
     "slideshow",
     "featured-collections",
-    "collection-list"
+    "featured_collections_TLDHVM",
+    "collection-list",
+    "image_with_text_UxEjWw"
   ]
 }
