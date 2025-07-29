@@ -24,10 +24,6 @@
             "show_taxes_notice": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
@@ -72,7 +68,6 @@
       "block_order": [
         "title",
         "price",
-        "separator",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
