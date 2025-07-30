@@ -29,6 +29,7 @@
     "show_product_rating": false,
     "cart_show_free_shipping_bar": true,
     "cart_free_shipping_threshold": "35",
+    "social_instagram": "https://instagram.com/ravaperfume",
     "content_for_index": [],
     "blocks": {
       "6544682535036668446": {
