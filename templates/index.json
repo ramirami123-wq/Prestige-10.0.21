@@ -62,7 +62,7 @@
           "settings": {
             "collection": "unisex",
             "products_count": 8,
-            "title": "Most Selling",
+            "title": "All Collections",
             "link_url": "shopify://collections/all",
             "link_text": "View all"
           }
@@ -89,9 +89,9 @@
         "collection_3Y4Er7": {
           "type": "collection",
           "settings": {
-            "collection": "our-perfumes",
+            "collection": "rava-for-men",
             "products_count": 8,
-            "title": "Exclusive Perfumes",
+            "title": "",
             "link_url": "",
             "link_text": "View all"
           }
@@ -105,7 +105,37 @@
         "color_scheme": "",
         "separate_section_with_border": true,
         "hide_product_information": false,
-        "stack_products": true,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": "Exclusive Pefumes"
+      }
+    },
+    "featured_collections_y8zgU4": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_NLYimi": {
+          "type": "collection",
+          "settings": {
+            "collection": "rava-for-women",
+            "products_count": 8,
+            "title": "Rava For Women",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_NLYimi"
+      ],
+      "name": "t:sections.featured_collections.presets.featured_collections.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "horizontal_spacing_factor": 1,
@@ -247,6 +277,7 @@
     "slideshow",
     "featured-collections",
     "featured_collections_TLDHVM",
+    "featured_collections_y8zgU4",
     "collection-list",
     "image_with_text_UxEjWw",
     "175382166504f2e0cf"
