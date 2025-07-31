@@ -19,16 +19,37 @@
           "settings": {
             "text": "Free delivery for orders above 35$"
           }
+        },
+        "message_iAExMw": {
+          "type": "message",
+          "settings": {
+            "text": "Buy 2 Perfumes for 12% Off"
+          }
+        },
+        "message_63yWkF": {
+          "type": "message",
+          "settings": {
+            "text": "Buy 3 for 18% Off"
+          }
+        },
+        "message_xg49AN": {
+          "type": "message",
+          "settings": {
+            "text": "Buy 4+ for 25% Off"
+          }
         }
       },
       "block_order": [
-        "message-1"
+        "message-1",
+        "message_iAExMw",
+        "message_63yWkF",
+        "message_xg49AN"
       ],
       "settings": {
         "color_scheme": "",
         "enable_sticky": false,
         "autoplay": true,
-        "cycle_speed": 5,
+        "cycle_speed": 2,
         "desktop_font_size": 11,
         "mobile_font_size": 10
       }
