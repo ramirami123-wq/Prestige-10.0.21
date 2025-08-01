@@ -24,6 +24,12 @@
             "show_taxes_notice": false
           }
         },
+        "liquid_Ec6VWh": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "🧴 <b>Quality Guarantee</b> <br><br> 🛡️ <b>Skin Safety</b> & <b>Sensitivity Guarantee</b> <br><br> 📦 <b>Secure Packaging Guarantee</b> <br><br> ⏳ <b>Long-Lasting Scent Guarantee</b>"
+          }
+        },
         "liquid_ybmt4E": {
           "type": "liquid",
           "settings": {
@@ -74,6 +80,7 @@
       "block_order": [
         "title",
         "price",
+        "liquid_Ec6VWh",
         "liquid_ybmt4E",
         "variant_picker",
         "quantity_selector",
