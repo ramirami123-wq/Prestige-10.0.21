@@ -11,19 +11,130 @@
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
-        "image_size": "auto",
-        "allow_transparent_header": true,
-        "reveal": true,
-        "enable_parallax": true,
-        "show_image": true,
+        "image_size": "xs",
+        "allow_transparent_header": false,
+        "reveal": false,
+        "enable_parallax": false,
+        "show_image": false,
         "show_collection_title": true,
-        "show_collection_description": true,
-        "show_breadcrumb": true,
+        "show_collection_description": false,
+        "show_breadcrumb": false,
         "content_width": "xs",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "multi_column_4YLUiW": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_qJPwJN": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "Buy Any 2 Perfumes for 12% Off",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_dU9FAL": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "Buy<strong> Any 3 </strong>Perfumes for 18% Off",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_bLhwLq": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "Buy Any 4+ Perfumes for 25% Off",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_qJPwJN",
+        "image_with_text_dU9FAL",
+        "image_with_text_bLhwLq"
+      ],
+      "disabled": true,
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
+    "multi_column_fDkqan": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_fVGt96": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h6",
+            "content": "<p>Buy <strong>Any 2</strong> Perfumes for 12% Off</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_FqfjyY": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h6",
+            "content": "<p>Buy<strong> Any 3 </strong>Perfumes for 18% Off</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        },
+        "image_with_text_c6469p": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "",
+            "heading_tag": "h6",
+            "content": "<p>Buy <strong>Any 4+</strong> Perfumes for 25% Off</p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_fVGt96",
+        "image_with_text_FqfjyY",
+        "image_with_text_c6469p"
+      ],
+      "disabled": true,
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "",
+        "content": ""
       }
     },
     "main": {
@@ -50,6 +161,8 @@
   },
   "order": [
     "collection-banner",
+    "multi_column_4YLUiW",
+    "multi_column_fDkqan",
     "main"
   ]
 }
