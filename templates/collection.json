@@ -11,9 +11,7 @@
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
-      "custom_css": [
-        "h1 {font-size: 20px;}"
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "xs",
@@ -35,7 +33,7 @@
         "image_with_text_qJPwJN": {
           "type": "image_with_text",
           "settings": {
-            "title": "Buy Any 2 Perfumes for 12% Off",
+            "title": "Buy <strong>Any 2</strong> Perfumes for 12% Off",
             "heading_tag": "h6",
             "content": "",
             "link_url": "",
@@ -123,7 +121,6 @@
         "image_with_text_FqfjyY",
         "image_with_text_c6469p"
       ],
-      "disabled": true,
       "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
         "color_scheme": "",
@@ -144,7 +141,7 @@
       "settings": {
         "color_scheme": "",
         "hide_product_information": false,
-        "products_per_page": 48,
+        "products_per_page": 50,
         "products_per_row_mobile": "2",
         "products_size_desktop": "medium",
         "show_grid_mode_selector": true,
@@ -153,7 +150,7 @@
         "filter_layout": "sidebar",
         "quick_links_menu": "",
         "show_sort_by": true,
-        "show_filters": true,
+        "show_filters": false,
         "show_results_count": true,
         "show_filter_group_name": false,
         "show_filter_values_count": true,
