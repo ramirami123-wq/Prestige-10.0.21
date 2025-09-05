@@ -60,7 +60,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "unisex",
+            "collection": "all-perfumes",
             "products_count": 8,
             "title": "All Perfumes",
             "link_url": "shopify://collections/all",
