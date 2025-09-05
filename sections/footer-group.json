@@ -47,7 +47,7 @@
         "icon-4": {
           "type": "item",
           "settings": {
-            "icon": "picto-credit-card",
+            "icon": "picto-money",
             "icon_width": 24,
             "mobile_icon_width": 24,
             "title": "Cash On Delivery",
@@ -64,7 +64,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "icon_color": "",
         "text_color": "",
         "text_alignment": "center"
