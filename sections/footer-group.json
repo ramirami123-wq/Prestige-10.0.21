@@ -75,6 +75,7 @@
       "blocks": {
         "newsletter": {
           "type": "newsletter",
+          "disabled": true,
           "settings": {
             "title": "Newsletter",
             "content": "<p>Sign up to our newsletter to receive exclusive offers.</p>",
@@ -85,7 +86,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "main-menu",
             "show_menu_title": true,
             "menu_title": ""
           }
