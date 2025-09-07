@@ -11,7 +11,9 @@
   "sections": {
     "collection-banner": {
       "type": "collection-banner",
-      "custom_css": [],
+      "custom_css": [
+        ".section-spacing{padding:0;}"
+      ],
       "settings": {
         "color_scheme": "scheme-1",
         "image_size": "xs",
@@ -121,6 +123,7 @@
         "image_with_text_FqfjyY",
         "image_with_text_c6469p"
       ],
+      "custom_css": [],
       "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
         "color_scheme": "",
