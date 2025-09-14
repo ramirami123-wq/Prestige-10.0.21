@@ -78,6 +78,20 @@
         },
         "feature_with_icon_yBJ4rf": {
           "type": "feature_with_icon",
+          "disabled": true,
+          "settings": {
+            "text": "<strong>Quality Guarantee</strong>",
+            "link": "",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/perfume.png",
+            "icon_width": 20,
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_paGmwX": {
+          "type": "feature_with_icon",
           "settings": {
             "text": "<strong>Quality Guarantee</strong>",
             "link": "",
@@ -115,7 +129,35 @@
             "border_color": ""
           }
         },
+        "feature_with_icon_mkJrr3": {
+          "type": "feature_with_icon",
+          "disabled": true,
+          "settings": {
+            "text": "<strong>Secure Packaging Guarantee</strong>",
+            "link": "",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/box.png",
+            "icon_width": 20,
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "border_color": ""
+          }
+        },
         "feature_with_icon_UQaCRf": {
+          "type": "feature_with_icon",
+          "disabled": true,
+          "settings": {
+            "text": "<strong>Long-Lasting Scent Guarantee</strong>",
+            "link": "",
+            "icon": "none",
+            "custom_icon": "shopify://shop_images/hourglass.png",
+            "icon_width": 20,
+            "background": "#ffffff",
+            "text_color": "#000000",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_gA36Cj": {
           "type": "feature_with_icon",
           "settings": {
             "text": "<strong>Long-Lasting Scent Guarantee</strong>",
@@ -153,9 +195,12 @@
         "buy_buttons",
         "liquid_fkPLLM",
         "feature_with_icon_yBJ4rf",
+        "feature_with_icon_paGmwX",
         "feature_with_icon_jKBJwF",
         "feature_with_icon_jcJ7qK",
+        "feature_with_icon_mkJrr3",
         "feature_with_icon_UQaCRf",
+        "feature_with_icon_gA36Cj",
         "liquid_Ec6VWh",
         "description"
       ],
