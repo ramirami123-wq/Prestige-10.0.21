@@ -83,6 +83,7 @@
     },
     "custom_liquid_ALBTkt": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "color_scheme": "scheme-3",
