@@ -78,7 +78,6 @@
         },
         "feature_with_icon_yBJ4rf": {
           "type": "feature_with_icon",
-          "disabled": true,
           "settings": {
             "text": "<strong>Quality Guarantee</strong>",
             "link": "",
@@ -92,6 +91,7 @@
         },
         "feature_with_icon_paGmwX": {
           "type": "feature_with_icon",
+          "disabled": true,
           "settings": {
             "text": "<strong>Quality Guarantee</strong>",
             "link": "",
@@ -118,6 +118,7 @@
         },
         "feature_with_icon_jcJ7qK": {
           "type": "feature_with_icon",
+          "disabled": true,
           "settings": {
             "text": "<strong>Secure Packaging Guarantee</strong>",
             "link": "",
@@ -131,7 +132,6 @@
         },
         "feature_with_icon_mkJrr3": {
           "type": "feature_with_icon",
-          "disabled": true,
           "settings": {
             "text": "<strong>Secure Packaging Guarantee</strong>",
             "link": "",
@@ -145,7 +145,6 @@
         },
         "feature_with_icon_UQaCRf": {
           "type": "feature_with_icon",
-          "disabled": true,
           "settings": {
             "text": "<strong>Long-Lasting Scent Guarantee</strong>",
             "link": "",
@@ -159,6 +158,7 @@
         },
         "feature_with_icon_gA36Cj": {
           "type": "feature_with_icon",
+          "disabled": true,
           "settings": {
             "text": "<strong>Long-Lasting Scent Guarantee</strong>",
             "link": "",
