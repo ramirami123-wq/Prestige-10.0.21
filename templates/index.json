@@ -249,19 +249,14 @@
     "175382166504f2e0cf": {
       "type": "apps",
       "blocks": {
-        "judge_me_reviews_review_widget_homepage_hiXPDG": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget_homepage/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "product": "",
-            "review_data": "real_data",
-            "max_width": 1200
-          }
+        "judge_me_reviews_all_reviews_page_ACjBMm": {
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_page/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
-        "judge_me_reviews_review_widget_homepage_hiXPDG"
+        "judge_me_reviews_all_reviews_page_ACjBMm"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
