@@ -18,6 +18,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-delivery-truck",
+            "custom_icon": "shopify://shop_images/delivery-truck_13.png",
             "icon_width": 24,
             "mobile_icon_width": 24,
             "title": "Delivery All Over Lebanon 🇱🇧",
@@ -28,7 +29,8 @@
           "type": "item",
           "settings": {
             "icon": "picto-money",
-            "icon_width": 16,
+            "custom_icon": "shopify://shop_images/pay_8.png",
+            "icon_width": 24,
             "mobile_icon_width": 24,
             "title": "Pay Cash On Delivery",
             "content": ""
@@ -38,6 +40,7 @@
           "type": "item",
           "settings": {
             "icon": "picto-happy-face",
+            "custom_icon": "shopify://shop_images/rating_5.png",
             "icon_width": 24,
             "mobile_icon_width": 24,
             "title": "4,000+ Happy Customers",
