@@ -117,6 +117,137 @@
         "max_image_zoom_level": 3
       }
     },
+    "rich_text_P8yHGa": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JgfmK3": {
+          "type": "heading",
+          "settings": {
+            "text": "What People In 🇱🇧 Are Saying",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_JgfmK3"
+      ],
+      "custom_css": [
+        "h2 {font-size: 54px;}"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": true
+      }
+    },
+    "ss_scrolling_videos_bVtjdW": {
+      "type": "ss-scrolling-videos",
+      "blocks": {
+        "item_QQyGbe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-09-14_at_8.09.34_PM.png",
+            "video": "shopify://files/videos/JH-38.3 int male.mp4",
+            "video_url": ""
+          }
+        },
+        "item_yayfYP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-09-14_at_8.11.01_PM.png",
+            "video": "shopify://files/videos/AL-89-2 INT MALE.mp4",
+            "video_url": ""
+          }
+        },
+        "item_aUNddD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-09-14_at_8.11.57_PM.png",
+            "video": "shopify://files/videos/JH-44.1 INT FEMALE.mp4",
+            "video_url": ""
+          }
+        },
+        "item_YR9kPj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-09-14_at_8.13.53_PM.png",
+            "video": "shopify://files/videos/AL-87-1 INT MALE.mp4",
+            "video_url": ""
+          }
+        },
+        "item_wtEYAR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-09-14_at_8.18.33_PM.png",
+            "video": "shopify://files/videos/JH-42.3 INT FEMALE.mp4",
+            "video_url": ""
+          }
+        },
+        "item_7YzLjQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-09-14_at_8.16.41_PM.png",
+            "video": "shopify://files/videos/AL-92-1 int female.mp4",
+            "video_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_QQyGbe",
+        "item_yayfYP",
+        "item_aUNddD",
+        "item_YR9kPj",
+        "item_wtEYAR",
+        "item_7YzLjQ"
+      ],
+      "name": "SS - Scrolling videos",
+      "settings": {
+        "scrolling_velocity": 100,
+        "scrolling_velocity_mobile": 150,
+        "reverse_direction": false,
+        "pause_hover": true,
+        "item_width": 270,
+        "item_width_mobile": 240,
+        "item_gap": 32,
+        "item_gap_mobile": 32,
+        "item_radius": 14,
+        "item_border_thickness": 2,
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "player_size": 56,
+        "player_size_mobile": 52,
+        "modal_width": 30,
+        "modal_width_mobile": 70,
+        "modal_radius": 14,
+        "modal_border_thickness": 2,
+        "modal_ratio": "portrait",
+        "modal_ratio_mobile": "portrait",
+        "modal_controls": false,
+        "player_color": "#FFFFFF",
+        "item_border_color": "#000000",
+        "item_border_gradient": "linear-gradient(90deg, rgba(141, 99, 0, 1), rgba(194, 126, 0, 1) 100%)",
+        "modal_border_color": "#8d6300ff",
+        "close_bg_color": "#8d6300ff",
+        "close_icon_color": "#ffffff",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 24,
+        "padding_bottom": 36,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
     "scrolling_content_yWbY9j": {
       "type": "scrolling-content",
       "blocks": {
@@ -192,6 +323,8 @@
   },
   "order": [
     "main",
+    "rich_text_P8yHGa",
+    "ss_scrolling_videos_bVtjdW",
     "scrolling_content_yWbY9j",
     "related-products",
     "175382200928c73438"
