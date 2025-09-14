@@ -105,7 +105,7 @@
         "feature_with_icon_jcJ7qK": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "Secure Packaging Guarantee",
+            "text": "<strong>Secure Packaging Guarantee</strong>",
             "link": "",
             "icon": "none",
             "custom_icon": "shopify://shop_images/guarantee-certificate.png",
@@ -118,7 +118,7 @@
         "feature_with_icon_UQaCRf": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "Secure Packaging Guarantee",
+            "text": "<strong>Secure Packaging Guarantee</strong>",
             "link": "",
             "icon": "none",
             "custom_icon": "shopify://shop_images/guarantee-certificate.png",
