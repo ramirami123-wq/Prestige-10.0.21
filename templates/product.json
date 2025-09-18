@@ -51,6 +51,52 @@
             "border_color": ""
           }
         },
+        "text_LyVBWG": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<ul><li><h6>Buy<strong> Any 2</strong> Perfumes for 12% Off</h6></li><li><h6>Buy<strong> Any 3</strong> Perfumes for 18% Off</h6></li><li><h6>Buy <strong>Any 4+</strong> Perfumes for 25% Off</h6></li></ul>"
+          }
+        },
+        "feature_with_icon_6jWjcQ": {
+          "type": "feature_with_icon",
+          "disabled": true,
+          "settings": {
+            "text": "<strong>Buy Any 2 Perfumes for 12% Off</strong>",
+            "link": "",
+            "icon": "none",
+            "icon_width": 16,
+            "background": "#3c2b22",
+            "text_color": "#ffffff",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_4BgGxL": {
+          "type": "feature_with_icon",
+          "disabled": true,
+          "settings": {
+            "text": "<strong>Buy Any 3 Perfumes for 18% Off</strong>",
+            "link": "",
+            "icon": "none",
+            "icon_width": 16,
+            "background": "#3c2b22",
+            "text_color": "#ffffff",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_pT3KrY": {
+          "type": "feature_with_icon",
+          "disabled": true,
+          "settings": {
+            "text": "<strong>Buy Any 4 Perfumes for 25% Off</strong>",
+            "link": "",
+            "icon": "none",
+            "icon_width": 16,
+            "background": "#3c2b22",
+            "text_color": "#ffffff",
+            "border_color": ""
+          }
+        },
         "liquid_ybmt4E": {
           "type": "liquid",
           "settings": {
@@ -214,6 +260,10 @@
         "title",
         "price",
         "offers_hGLNQr",
+        "text_LyVBWG",
+        "feature_with_icon_6jWjcQ",
+        "feature_with_icon_4BgGxL",
+        "feature_with_icon_pT3KrY",
         "liquid_ybmt4E",
         "variant_picker",
         "quantity_selector",
@@ -335,7 +385,7 @@
       "name": "SS - Scrolling videos",
       "settings": {
         "scrolling_velocity": 100,
-        "scrolling_velocity_mobile": 150,
+        "scrolling_velocity_mobile": 120,
         "reverse_direction": false,
         "pause_hover": true,
         "item_width": 270,
