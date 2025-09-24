@@ -17,7 +17,7 @@
         "separate_section_with_border": false,
         "remove_vertical_spacing": true,
         "remove_horizontal_spacing": true,
-        "liquid": "<div class=\"happy-customers\">\n  <div class=\"avatars\">\n    <img src=\"https://img.freepik.com/free-photo/stylish-african-american-woman-smiling_23-2148770405.jpg\" alt=\"Customer 1\" class=\"avatar\">\n    <img src=\"https://thumbs.dreamstime.com/b/beautiful-african-american-woman-relaxing-outside-happy-middle-aged-smiling-46298787.jpg\" alt=\"Customer 2\" class=\"avatar\">\n    <img src=\"https://media.istockphoto.com/id/1320651997/photo/young-woman-close-up-isolated-studio-portrait.jpg?s=612x612&w=0&k=20&c=lV6pxz-DknISGT2jjiSvUmSaw0hpMDf-dBpT8HTSAUI=\" alt=\"Customer 3\" class=\"avatar\">\n  </div>\n  <span class=\"text\">4,000+ HAPPY CUSTOMERS</span>\n</div>\n\n<style>\n.happy-customers {\n  display: flex;\n  align-items: center;\nbackground-image: linear-gradient(45deg, #FFF9E6, #3C2B22 80%);\n  border-radius: 0px;\n  padding: 5px 50px;\n  font-family: Arial, sans-serif;\n  font-size: 12px;\n  color: white;\n  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\n}\n\n.avatars {\n  display: flex;\n  margin-right: 10px;\nmargin-left: 10px\n}\n\n.avatar {\n  width: 22px;\n  height: 22px;\n  border-radius: 50%;\n  border: 2px solid white;\n  margin-left: -7px; \n object-fit: cover;\n}\n\n.text {\n  font-weight: bold;\n  text-transform: uppercase;\n  letter-spacing: 1px;\n}\n\n</style>",
+        "liquid": "<div class=\"happy-customers\">\n  <div class=\"avatars\">\n    <img src=\"https://img.freepik.com/free-photo/stylish-african-american-woman-smiling_23-2148770405.jpg\" alt=\"Customer 1\" class=\"avatar\">\n    <img src=\"https://thumbs.dreamstime.com/b/beautiful-african-american-woman-relaxing-outside-happy-middle-aged-smiling-46298787.jpg\" alt=\"Customer 2\" class=\"avatar\">\n    <img src=\"https://media.istockphoto.com/id/1320651997/photo/young-woman-close-up-isolated-studio-portrait.jpg?s=612x612&w=0&k=20&c=lV6pxz-DknISGT2jjiSvUmSaw0hpMDf-dBpT8HTSAUI=\" alt=\"Customer 3\" class=\"avatar\">\n  </div>\n  <span class=\"text\">4,000+ HAPPY CUSTOMERS</span>\n</div>\n\n<style>\n.happy-customers {\n  display: flex;\n  align-items: center;\nbackground-image: linear-gradient(45deg, #FFEDAC, #000000 90%);\n  border-radius: 0px;\n  padding: 5px 50px;\n  font-family: Arial, sans-serif;\n  font-size: 12px;\n  color: white;\n  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\n}\n\n.avatars {\n  display: flex;\n  margin-right: 10px;\nmargin-left: 10px\n}\n\n.avatar {\n  width: 22px;\n  height: 22px;\n  border-radius: 50%;\n  border: 2px solid white;\n  margin-left: -7px; \n object-fit: cover;\n}\n\n.text {\n  font-weight: bold;\n  text-transform: uppercase;\n  letter-spacing: 1px;\n}\n\n</style>",
         "text_alignment": "center"
       }
     },
@@ -122,16 +122,16 @@
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
-            "atc_button_background": "#3c2b22",
+            "atc_button_background": "#000000",
             "atc_button_text_color": "",
-            "payment_button_background": "#000000",
-            "payment_button_text_color": ""
+            "payment_button_background": "#ffedac",
+            "payment_button_text_color": "#000000"
           }
         },
         "liquid_gQwbVF": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>People Checking Out</title>\n</head>\n<body>\n    <div id=\"checkout-message\"><strong class=\"changing-number\">11</strong> people are checking out right now</div>\n    \n    <script>\n        let currentCount = 10;\n        const minCount = 5;\n        const maxCount = 30; // Set max limit if needed\n        \n        function updateCheckoutMessage() {\n            const changeFactor = Math.random() < 0.5 ? -1 : 1;\n            const changeValue = Math.floor(Math.random() * 2) + 1;\n            \n            currentCount += changeFactor * changeValue;\n            \n            if (currentCount < minCount) {\n                currentCount = minCount;\n            } else if (currentCount > maxCount) {\n                currentCount = maxCount;\n            }\n            \n            document.getElementById('checkout-message').innerHTML = `<strong class=\"changing-number\">${currentCount}</strong> people are checking out right now`;\n        }\n        \n        setInterval(updateCheckoutMessage, 10000); // Update every 7 seconds\n    </script>\n</body>\n</html>\n\n<style>\n#checkout-message {\n    font-size: 13px;\n    text-align: center;\n    background: #ffffff;\n    border-radius: 0px;\n    width: max-content;\n    margin-left: 8px;\n    margin-right: auto;\n    padding: 0px 0px;\n    color: #3C2B22;\n    line-height: 0px;\n}\n.changing-number{\nfont-size: 14px;\nfont-weight: 800;\n}\n</style>"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>People Checking Out</title>\n</head>\n<body>\n    <div id=\"checkout-message\"><strong class=\"changing-number\">11</strong> people are checking out right now</div>\n    \n    <script>\n        let currentCount = 10;\n        const minCount = 5;\n        const maxCount = 30; // Set max limit if needed\n        \n        function updateCheckoutMessage() {\n            const changeFactor = Math.random() < 0.5 ? -1 : 1;\n            const changeValue = Math.floor(Math.random() * 2) + 1;\n            \n            currentCount += changeFactor * changeValue;\n            \n            if (currentCount < minCount) {\n                currentCount = minCount;\n            } else if (currentCount > maxCount) {\n                currentCount = maxCount;\n            }\n            \n            document.getElementById('checkout-message').innerHTML = `<strong class=\"changing-number\">${currentCount}</strong> people are checking out right now`;\n        }\n        \n        setInterval(updateCheckoutMessage, 10000); // Update every 7 seconds\n    </script>\n</body>\n</html>\n\n<style>\n#checkout-message {\n    font-size: 13px;\n    text-align: center;\n    background: #ffffff;\n    border-radius: 0px;\n    width: max-content;\n    margin-left: 8px;\n    margin-right: auto;\n    padding: 0px 0px;\n    color: #000000;\n    line-height: 0px;\n}\n.changing-number{\nfont-size: 14px;\nfont-weight: 800;\n}\n</style>"
           }
         },
         "liquid_kEVRwh": {
@@ -406,10 +406,10 @@
         "modal_ratio_mobile": "portrait",
         "modal_controls": false,
         "player_color": "#ffffff",
-        "item_border_color": "#000000",
-        "item_border_gradient": "linear-gradient(90deg, rgba(141, 99, 0, 1), rgba(194, 126, 0, 1) 100%)",
-        "modal_border_color": "#8d6300",
-        "close_bg_color": "#8d6300",
+        "item_border_color": "#ffedac",
+        "item_border_gradient": "",
+        "modal_border_color": "#ffedac",
+        "close_bg_color": "#ffedac",
         "close_icon_color": "#ffffff",
         "background_color": "#ffffff",
         "background_gradient": "",
@@ -453,8 +453,8 @@
         "section_vertical_spacing_desktop": 80,
         "item_horizontal_spacing_mobile": 80,
         "item_horizontal_spacing_desktop": 120,
-        "background": "#3c2b22",
-        "text_color": "#ffffff"
+        "background": "#ffedac",
+        "text_color": "#000000"
       }
     },
     "related-products": {

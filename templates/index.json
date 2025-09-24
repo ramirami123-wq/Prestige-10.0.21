@@ -149,7 +149,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "color_scheme": "",
+            "color_scheme": "scheme-4",
             "collection": "for-men",
             "expand_collection": false,
             "content_position": "place-self-end-start text-start",
@@ -201,7 +201,7 @@
         "collection-3"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-2",
         "separate_section_with_border": true,
         "image_size": "sm",
         "show_text_outside": false,
