@@ -9,6 +9,18 @@
  */
 {
   "sections": {
+    "custom_liquid_KRP8Ah": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div class=\"happy-customers\">\n  <div class=\"avatars\">\n    <img src=\"https://img.freepik.com/free-photo/stylish-african-american-woman-smiling_23-2148770405.jpg\" alt=\"Customer 1\" class=\"avatar\">\n    <img src=\"https://thumbs.dreamstime.com/b/beautiful-african-american-woman-relaxing-outside-happy-middle-aged-smiling-46298787.jpg\" alt=\"Customer 2\" class=\"avatar\">\n    <img src=\"https://media.istockphoto.com/id/1320651997/photo/young-woman-close-up-isolated-studio-portrait.jpg?s=612x612&w=0&k=20&c=lV6pxz-DknISGT2jjiSvUmSaw0hpMDf-dBpT8HTSAUI=\" alt=\"Customer 3\" class=\"avatar\">\n  </div>\n  <span class=\"text\">4,000+ HAPPY CUSTOMERS</span>\n</div>\n\n<style>\n.happy-customers {\n  display: flex;\n  align-items: center;\nbackground-image: linear-gradient(45deg, #FFEDAC, #000000 90%);\n  border-radius: 0px;\n  padding: 5px 50px;\n  font-family: Arial, sans-serif;\n  font-size: 12px;\n  color: white;\n  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\n}\n\n.avatars {\n  display: flex;\n  margin-right: 10px;\nmargin-left: 10px\n}\n\n.avatar {\n  width: 22px;\n  height: 22px;\n  border-radius: 50%;\n  border: 2px solid white;\n  margin-left: -7px; \n object-fit: cover;\n}\n\n.text {\n  font-weight: bold;\n  text-transform: uppercase;\n  letter-spacing: 1px;\n}\n\n</style>",
+        "text_alignment": "center"
+      }
+    },
     "scrolling_content_AHb7tB": {
       "type": "scrolling-content",
       "blocks": {
@@ -44,18 +56,6 @@
         "item_horizontal_spacing_desktop": 120,
         "background": "",
         "text_color": "#ffffff"
-      }
-    },
-    "custom_liquid_KRP8Ah": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": true,
-        "liquid": "<div class=\"happy-customers\">\n  <div class=\"avatars\">\n    <img src=\"https://img.freepik.com/free-photo/stylish-african-american-woman-smiling_23-2148770405.jpg\" alt=\"Customer 1\" class=\"avatar\">\n    <img src=\"https://thumbs.dreamstime.com/b/beautiful-african-american-woman-relaxing-outside-happy-middle-aged-smiling-46298787.jpg\" alt=\"Customer 2\" class=\"avatar\">\n    <img src=\"https://media.istockphoto.com/id/1320651997/photo/young-woman-close-up-isolated-studio-portrait.jpg?s=612x612&w=0&k=20&c=lV6pxz-DknISGT2jjiSvUmSaw0hpMDf-dBpT8HTSAUI=\" alt=\"Customer 3\" class=\"avatar\">\n  </div>\n  <span class=\"text\">4,000+ HAPPY CUSTOMERS</span>\n</div>\n\n<style>\n.happy-customers {\n  display: flex;\n  align-items: center;\nbackground-image: linear-gradient(45deg, #FFF9E6, #3C2B22 80%);\n  border-radius: 0px;\n  padding: 5px 50px;\n  font-family: Arial, sans-serif;\n  font-size: 12px;\n  color: white;\n  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);\n}\n\n.avatars {\n  display: flex;\n  margin-right: 10px;\nmargin-left: 10px\n}\n\n.avatar {\n  width: 22px;\n  height: 22px;\n  border-radius: 50%;\n  border: 2px solid white;\n  margin-left: -7px; \n object-fit: cover;\n}\n\n.text {\n  font-weight: bold;\n  text-transform: uppercase;\n  letter-spacing: 1px;\n}\n\n</style>",
-        "text_alignment": "center"
       }
     },
     "collection-banner": {
