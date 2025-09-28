@@ -38,6 +38,7 @@
         },
         "offers_hGLNQr": {
           "type": "offers",
+          "disabled": true,
           "settings": {
             "stack_offers": true,
             "offer_1_title": "Buy Any 2 Perfumes for 12% Off",
@@ -60,40 +61,37 @@
         },
         "feature_with_icon_6jWjcQ": {
           "type": "feature_with_icon",
-          "disabled": true,
           "settings": {
-            "text": "<strong>Buy Any 2 Perfumes for 12% Off</strong>",
+            "text": "Buy <strong>Any 2</strong> Perfumes for 12% Off",
             "link": "",
             "icon": "none",
             "icon_width": 16,
-            "background": "#3c2b22",
-            "text_color": "#ffffff",
+            "background": "#ffedac",
+            "text_color": "#000000",
             "border_color": ""
           }
         },
         "feature_with_icon_4BgGxL": {
           "type": "feature_with_icon",
-          "disabled": true,
           "settings": {
-            "text": "<strong>Buy Any 3 Perfumes for 18% Off</strong>",
+            "text": "Buy <strong>Any 3</strong> Perfumes for 18% Off",
             "link": "",
             "icon": "none",
             "icon_width": 16,
-            "background": "#3c2b22",
-            "text_color": "#ffffff",
+            "background": "#ffedac",
+            "text_color": "#000000",
             "border_color": ""
           }
         },
         "feature_with_icon_pT3KrY": {
           "type": "feature_with_icon",
-          "disabled": true,
           "settings": {
-            "text": "<strong>Buy Any 4 Perfumes for 25% Off</strong>",
+            "text": "Buy <strong>Any 4</strong> Perfumes for 25% Off",
             "link": "",
             "icon": "none",
             "icon_width": 16,
-            "background": "#3c2b22",
-            "text_color": "#ffffff",
+            "background": "#ffedac",
+            "text_color": "#000000",
             "border_color": ""
           }
         },
@@ -150,7 +148,7 @@
         "feature_with_icon_yBJ4rf": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "<strong>Quality Guarantee</strong>",
+            "text": "Quality Guarantee",
             "link": "",
             "icon": "none",
             "custom_icon": "shopify://shop_images/perfume_2.png",
@@ -177,7 +175,7 @@
         "feature_with_icon_jKBJwF": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "<strong>Skin Safety & Sensitivity Guarantee</strong>",
+            "text": "Skin Safety & Sensitivity Guarantee",
             "link": "",
             "icon": "none",
             "custom_icon": "shopify://shop_images/guarantee-certificate_2.png",
@@ -204,7 +202,7 @@
         "feature_with_icon_mkJrr3": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "<strong>Secure Packaging Guarantee</strong>",
+            "text": "Secure Packaging Guarantee",
             "link": "",
             "icon": "none",
             "custom_icon": "shopify://shop_images/box_1.png",
@@ -217,7 +215,7 @@
         "feature_with_icon_UQaCRf": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "<strong>Long-Lasting Scent Guarantee</strong>",
+            "text": "Long-Lasting Scent Guarantee",
             "link": "",
             "icon": "none",
             "custom_icon": "shopify://shop_images/hourglass_1.png",
