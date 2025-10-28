@@ -110,10 +110,40 @@
         "show_country_flag": true,
         "show_locale_selector": true
       }
+    },
+    "rich_text_PW3VyK": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_XDV8EK": {
+          "type": "subheading",
+          "settings": {
+            "text": "Business Information"
+          }
+        },
+        "richtext_a99dRc": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Business details<br/><br/>Legal business name<br/></strong>RAVA<strong><br/><br/>Address</strong><br/>Beirut<br/>hamra<br/>beirut, hamra 0000<br/>Lebanon<br/><br/><strong>Business phone</strong><br/>+96176894428</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_XDV8EK",
+        "richtext_a99dRc"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "start",
+        "remove_vertical_spacing": false
+      }
     }
   },
   "order": [
     "text-with-icons",
-    "footer"
+    "footer",
+    "rich_text_PW3VyK"
   ]
 }
