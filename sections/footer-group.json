@@ -131,6 +131,7 @@
         "subheading_XDV8EK",
         "richtext_a99dRc"
       ],
+      "disabled": true,
       "name": "t:sections.rich_text.presets.rich_text.name",
       "settings": {
         "color_scheme": "",
