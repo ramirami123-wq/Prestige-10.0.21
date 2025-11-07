@@ -52,6 +52,11 @@
         "type": "shopify://apps/tixel-tiktok-pixels/blocks/app-embed/b273c4b8-95ba-409d-a87c-c46907e02629",
         "disabled": false,
         "settings": {}
+      },
+      "17368511000352060744": {
+        "type": "shopify://apps/goaffpro-affiliate-marketing/blocks/goaffpro-embedded-pixel/2f4d802b-86c2-47e4-8096-ae1aa3efbab2",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
