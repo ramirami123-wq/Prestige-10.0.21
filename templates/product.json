@@ -41,28 +41,21 @@
           "disabled": true,
           "settings": {
             "stack_offers": true,
-            "offer_1_title": "Buy Any 2 Perfumes for 12% Off",
-            "offer_1_content": "",
-            "offer_2_title": "Buy<strong> Any 3 </strong>Perfumes for 18% Off",
+            "offer_1_title": "",
+            "offer_1_content": "<p><strong>Get 1 Perfume for FREE with Every 1 Perfume You Buy  <br/><br/></strong>There is <strong>no limit</strong> on how many perfumes you can get for <strong>FREE<br/><br/>Example:<br/></strong>Buy <strong>1</strong> Perfume, Get <strong>1</strong> for <strong>FREE</strong><br/>Buy <strong>3</strong> Perfumes, Get <strong>3</strong> for <strong>FREE</strong><br/>Buy <strong>10</strong> Perfumes, Get <strong>10</strong> for <strong>FREE</strong></p>",
+            "offer_2_title": "",
             "offer_2_content": "",
-            "offer_3_title": "Buy Any 4+ Perfumes for 25% Off",
+            "offer_3_title": "",
             "offer_3_content": "",
-            "background": "",
+            "background": "#ffedac",
             "text_color": "",
-            "border_color": ""
-          }
-        },
-        "text_LyVBWG": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<ul><li><h6>Buy<strong> Any 2</strong> Perfumes for 12% Off</h6></li><li><h6>Buy<strong> Any 3</strong> Perfumes for 18% Off</h6></li><li><h6>Buy <strong>Any 4+</strong> Perfumes for 25% Off</h6></li></ul>"
+            "border_color": "#ffffff"
           }
         },
         "feature_with_icon_6jWjcQ": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "Buy <strong>Any 2</strong> Perfumes for 12% Off",
+            "text": "Buy <strong>Any 2</strong> Perfumes for <strong>12%</strong> Off",
             "link": "",
             "icon": "none",
             "icon_width": 16,
@@ -74,7 +67,7 @@
         "feature_with_icon_4BgGxL": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "Buy <strong>Any 3</strong> Perfumes for 18% Off",
+            "text": "Buy <strong>Any 3</strong> Perfumes for <strong>18%</strong> Off",
             "link": "",
             "icon": "none",
             "icon_width": 16,
@@ -86,7 +79,7 @@
         "feature_with_icon_pT3KrY": {
           "type": "feature_with_icon",
           "settings": {
-            "text": "Buy <strong>Any 4</strong> Perfumes for 25% Off",
+            "text": "Buy <strong>Any 4</strong> Perfumes for <strong>25%</strong> Off",
             "link": "",
             "icon": "none",
             "icon_width": 16,
@@ -258,7 +251,6 @@
         "title",
         "price",
         "offers_hGLNQr",
-        "text_LyVBWG",
         "feature_with_icon_6jWjcQ",
         "feature_with_icon_4BgGxL",
         "feature_with_icon_pT3KrY",
@@ -484,7 +476,7 @@
         "judge_me_reviews_all_reviews_page_wFKjiL"
       ],
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
         "separate_section_with_border": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false

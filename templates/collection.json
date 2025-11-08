@@ -78,61 +78,6 @@
         "overlay_opacity": 30
       }
     },
-    "multi_column_4YLUiW": {
-      "type": "multi-column",
-      "blocks": {
-        "image_with_text_qJPwJN": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Buy <strong>Any 2</strong> Perfumes for 12% Off",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_dU9FAL": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Buy<strong> Any 3 </strong>Perfumes for 18% Off",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        },
-        "image_with_text_bLhwLq": {
-          "type": "image_with_text",
-          "settings": {
-            "title": "Buy Any 4+ Perfumes for 25% Off",
-            "heading_tag": "h6",
-            "content": "",
-            "link_url": "",
-            "link_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_with_text_qJPwJN",
-        "image_with_text_dU9FAL",
-        "image_with_text_bLhwLq"
-      ],
-      "disabled": true,
-      "name": "t:sections.multi_column.presets.multi_column.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": false,
-        "columns_per_row": 3,
-        "stack_on_mobile": true,
-        "overlap_image": false,
-        "content_alignment": "center",
-        "text_alignment": "center",
-        "spacing": "xs",
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
     "multi_column_fDkqan": {
       "type": "multi-column",
       "blocks": {
@@ -188,6 +133,39 @@
         "content": ""
       }
     },
+    "multi_column_y4YBtt": {
+      "type": "multi-column",
+      "blocks": {
+        "image_with_text_RE3ndh": {
+          "type": "image_with_text",
+          "settings": {
+            "title": "<strong>Get 1 Perfume for FREE with Every 1 Perfume You Buy</strong>",
+            "heading_tag": "h3",
+            "content": "<p>THERE IS NO LIMIT! </p><p>Example:<br/>Buy <strong>1</strong> Perfume, Get <strong>1</strong> for <strong>FREE</strong><br/>Buy <strong>3</strong> Perfumes, Get <strong>3</strong> for <strong>FREE</strong><br/>Buy <strong>10</strong> Perfumes, Get <strong>10</strong> for <strong>FREE</strong></p>",
+            "link_url": "",
+            "link_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_with_text_RE3ndh"
+      ],
+      "disabled": true,
+      "name": "t:sections.multi_column.presets.multi_column.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "columns_per_row": 3,
+        "stack_on_mobile": true,
+        "overlap_image": false,
+        "content_alignment": "center",
+        "text_alignment": "center",
+        "spacing": "xs",
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    },
     "main": {
       "type": "main-collection",
       "settings": {
@@ -214,8 +192,8 @@
     "custom_liquid_KRP8Ah",
     "scrolling_content_AHb7tB",
     "collection-banner",
-    "multi_column_4YLUiW",
     "multi_column_fDkqan",
+    "multi_column_y4YBtt",
     "main"
   ]
 }

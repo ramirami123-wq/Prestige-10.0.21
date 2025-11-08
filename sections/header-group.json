@@ -37,13 +37,21 @@
           "settings": {
             "text": "Buy 4+ Perfumes for 25% Off"
           }
+        },
+        "message_hAwTwQ": {
+          "type": "message",
+          "disabled": true,
+          "settings": {
+            "text": "<strong>BLACK FRIDAY SALE: Get FREE Perfumes 🎉</strong>"
+          }
         }
       },
       "block_order": [
         "message-1",
         "message_iAExMw",
         "message_63yWkF",
-        "message_xg49AN"
+        "message_xg49AN",
+        "message_hAwTwQ"
       ],
       "settings": {
         "color_scheme": "scheme-3",
@@ -57,7 +65,7 @@
     "header": {
       "type": "header",
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "enable_sticky": true,
         "hide_on_scroll": false,
         "show_separation_border": true,
@@ -69,7 +77,7 @@
         "sidebar_menu": "",
         "menu_open_trigger": "hover",
         "enable_search": true,
-        "sidebar_color_scheme": "",
+        "sidebar_color_scheme": "scheme-1",
         "sidebar_text_font": "heading",
         "sidebar_show_dividers": true,
         "layout": "logo_left_navigation_inline",
