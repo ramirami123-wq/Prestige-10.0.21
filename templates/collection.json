@@ -86,7 +86,7 @@
           "settings": {
             "title": "",
             "heading_tag": "h6",
-            "content": "<p>Buy <strong>Any 2</strong> Perfumes for 12% Off</p>",
+            "content": "<p>Buy <strong>Any 2</strong> Perfumes for <strong>12%</strong> Off</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -96,7 +96,7 @@
           "settings": {
             "title": "",
             "heading_tag": "h6",
-            "content": "<p>Buy<strong> Any 3 </strong>Perfumes for 18% Off</p>",
+            "content": "<p>Buy<strong> Any 3 </strong>Perfumes for <strong>18%</strong> Off</p>",
             "link_url": "",
             "link_text": ""
           }
@@ -106,7 +106,7 @@
           "settings": {
             "title": "",
             "heading_tag": "h6",
-            "content": "<p>Buy <strong>Any 4+</strong> Perfumes for 25% Off</p>",
+            "content": "<p>Buy <strong>Any 4+</strong> Perfumes for <strong>25%</strong> Off</p>",
             "link_url": "",
             "link_text": ""
           }
