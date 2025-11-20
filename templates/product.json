@@ -38,7 +38,6 @@
         },
         "offers_hGLNQr": {
           "type": "offers",
-          "disabled": true,
           "settings": {
             "stack_offers": true,
             "offer_1_title": "",
@@ -54,6 +53,7 @@
         },
         "feature_with_icon_6jWjcQ": {
           "type": "feature_with_icon",
+          "disabled": true,
           "settings": {
             "text": "Buy <strong>Any 2</strong> Perfumes for <strong>12%</strong> Off",
             "link": "",
@@ -66,6 +66,7 @@
         },
         "feature_with_icon_4BgGxL": {
           "type": "feature_with_icon",
+          "disabled": true,
           "settings": {
             "text": "Buy <strong>Any 3</strong> Perfumes for <strong>18%</strong> Off",
             "link": "",
@@ -78,6 +79,7 @@
         },
         "feature_with_icon_pT3KrY": {
           "type": "feature_with_icon",
+          "disabled": true,
           "settings": {
             "text": "Buy <strong>Any 4</strong> Perfumes for <strong>25%</strong> Off",
             "link": "",

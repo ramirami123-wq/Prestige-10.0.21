@@ -117,6 +117,7 @@
         "image_with_text_FqfjyY",
         "image_with_text_c6469p"
       ],
+      "disabled": true,
       "custom_css": [],
       "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
@@ -150,7 +151,6 @@
       "block_order": [
         "image_with_text_RE3ndh"
       ],
-      "disabled": true,
       "name": "t:sections.multi_column.presets.multi_column.name",
       "settings": {
         "color_scheme": "",

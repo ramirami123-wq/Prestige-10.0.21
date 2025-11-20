@@ -16,45 +16,38 @@
       "blocks": {
         "message-1": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Delivery All Over Lebanon 🇱🇧"
           }
         },
-        "message_iAExMw": {
-          "type": "message",
-          "settings": {
-            "text": "Buy 2 Perfumes for 12% Off"
-          }
-        },
-        "message_63yWkF": {
-          "type": "message",
-          "settings": {
-            "text": "Buy 3 Perfumes for 18% Off"
-          }
-        },
-        "message_xg49AN": {
-          "type": "message",
-          "settings": {
-            "text": "Buy 4+ Perfumes for 25% Off"
-          }
-        },
         "message_hAwTwQ": {
           "type": "message",
-          "disabled": true,
           "settings": {
             "text": "<strong>BLACK FRIDAY SALE: Get FREE Perfumes 🎉</strong>"
+          }
+        },
+        "message_wHNK8Y": {
+          "type": "message",
+          "settings": {
+            "text": "<strong>Get 1 FREE Perfume with Every 1 Perfume You Buy</strong>"
+          }
+        },
+        "message_xhDYJT": {
+          "type": "message",
+          "settings": {
+            "text": "<strong>NO LIMIT! If You Buy 10 Perfumes, You Get 10 FREE</strong>"
           }
         }
       },
       "block_order": [
         "message-1",
-        "message_iAExMw",
-        "message_63yWkF",
-        "message_xg49AN",
-        "message_hAwTwQ"
+        "message_hAwTwQ",
+        "message_wHNK8Y",
+        "message_xhDYJT"
       ],
       "settings": {
-        "color_scheme": "scheme-3",
+        "color_scheme": "scheme-2",
         "enable_sticky": false,
         "autoplay": true,
         "cycle_speed": 2,
