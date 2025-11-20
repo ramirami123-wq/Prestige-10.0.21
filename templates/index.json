@@ -92,7 +92,7 @@
             "collection": "all-perfumes",
             "products_count": 8,
             "title": "All Perfumes",
-            "link_url": "shopify://collections/all",
+            "link_url": "shopify://collections/all-perfumes",
             "link_text": "View all"
           }
         }
