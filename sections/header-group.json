@@ -33,6 +33,12 @@
             "text": "<strong>Get 1 FREE Perfume with Every 1 Perfume You Buy</strong>"
           }
         },
+        "message_CpTxqg": {
+          "type": "message",
+          "settings": {
+            "text": "<strong>Choose your FREE Perfumes Manually🫵</strong>"
+          }
+        },
         "message_xhDYJT": {
           "type": "message",
           "settings": {
@@ -44,6 +50,7 @@
         "message-1",
         "message_hAwTwQ",
         "message_wHNK8Y",
+        "message_CpTxqg",
         "message_xhDYJT"
       ],
       "settings": {
