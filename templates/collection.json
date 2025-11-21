@@ -140,9 +140,9 @@
         "image_with_text_RE3ndh": {
           "type": "image_with_text",
           "settings": {
-            "title": "<strong>Get 1 Perfume for FREE with Every 1 Perfume You Buy</strong>",
+            "title": "<strong>Buy Any 1 Perfume and Choose 1 Perfume for FREE</strong>",
             "heading_tag": "h3",
-            "content": "<p>THERE IS NO LIMIT! <br/><strong>Choose </strong>your<strong> FREE </strong>Perfumes<strong> Manually🫵</strong></p><p>Example:<br/>Buy <strong>1</strong> Perfume, Get <strong>1</strong> for <strong>FREE</strong><br/>Buy <strong>3</strong> Perfumes, Get <strong>3</strong> for <strong>FREE</strong><br/>Buy <strong>10</strong> Perfumes, Get <strong>10</strong> for <strong>FREE</strong></p>",
+            "content": "<p>There is <strong>no limit</strong> on how many <strong>FREE perfumes</strong> <br/>you can get!<strong><br/><br/>Example:<br/></strong>Buy <strong>1</strong> Perfume, Choose <strong>1</strong> for <strong>FREE</strong><br/>Buy <strong>3</strong> Perfumes, Choose <strong>3</strong> for <strong>FREE</strong><br/>Buy <strong>10</strong> Perfumes, Choose <strong>10</strong> for <strong>FREE<br/><br/>Choose </strong>your <strong>FREE </strong>Perfumes <strong>Manually🫵 </strong></p>",
             "link_url": "",
             "link_text": ""
           }
