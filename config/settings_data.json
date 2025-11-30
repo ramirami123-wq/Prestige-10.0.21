@@ -27,7 +27,7 @@
     "button_letter_spacing": 18,
     "product_image_aspect_ratio": "square",
     "show_product_rating": false,
-    "cart_show_free_shipping_bar": true,
+    "cart_show_free_shipping_bar": false,
     "cart_free_shipping_threshold": "5",
     "social_instagram": "https://instagram.com/ravaperfumes",
     "social_tiktok": "https://tiktok.com/@ravaperfumes",
